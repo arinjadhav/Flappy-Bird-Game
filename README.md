@@ -1,4 +1,9 @@
-# Flappy Bird Game
+<p align="center">
+  <img src="readme-assets/Flappybird-banner.png" alt="Flappy Bird Banner" width="800"/>
+</p>
+
+
+## Flappy Bird
 
 ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
