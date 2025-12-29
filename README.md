@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="readme-assets/Flappybird-banner.png" alt="Flappy Bird Banner" width="800"/>
+  <img src="readme-assets/Flappybird-banner.png" alt="Flappy Bird Banner"/>
 </p>
 
 <h1 style="display:flex; align-items:center; gap:12px; margin:0;">
