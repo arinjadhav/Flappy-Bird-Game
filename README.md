@@ -2,8 +2,10 @@
   <img src="readme-assets/Flappybird-banner.png" alt="Flappy Bird Banner" width="800"/>
 </p>
 
-
-## Flappy Bird
+<h1 style="display:flex; align-items:center; gap:12px; margin:0;">
+  Flappy Bird
+  <img src="readme-assets/Flappy-Bird-2.svg" width="28" />
+</h1>
 
 ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
