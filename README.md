@@ -35,8 +35,3 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
 4. Start the game by using the command `python3 main.py`.
 5. Use the spacebar key on the keyboard to control the bird's upward movement.
 6. If the player collides, they can restart the game by pressing the ESC key.
-
-<br>
-
-
-Challenge yourself to beat your own high score in Flappy Bird and enjoy the fun of this game! If you have any questions or feedback, don't hesitate to reach out.
