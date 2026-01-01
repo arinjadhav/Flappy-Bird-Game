@@ -30,7 +30,7 @@ Make sure Python 3 and pip are installed on your system.
 
 #### Windows
 ```sh
-git clone https://github.com/arinjadhav/flappy-bird.git
+git clone https://github.com/arinjadhav/Flappy-Bird-Game.git
 cd flappy-bird
 pip install pygame
 python main.py
@@ -38,7 +38,7 @@ python main.py
 
 #### MacOS
 ```sh
-git clone https://github.com/arinjadhav/flappy-bird.git
+git clone https://github.com/arinjadhav/Flappy-Bird-Game.git
 cd flappy-bird
 pip3 install pygame
 python3 main.py
