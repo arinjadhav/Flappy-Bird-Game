@@ -10,12 +10,39 @@
 This project recreates the classic arcade-style game Flappy Bird using Python and the Pygame game development library.<br>
 It captures the original game’s simple yet addictive mechanics, allowing players to control a bird and guide it through a series of obstacles, aiming to survive as long as possible.
 
-### Gameplay Preview
-Below is a short preview of the gameplay, showcasing the bird navigating through narrow gaps between pipes. Players must carefully time each flap using the spacebar to stay airborne, as even a single collision with the obstacles or ground results in game over
+## Gameplay Preview
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/60b48556-db5c-4213-8d0d-146bac84e2b3" width="275" height="575" />
-</p>
+Below is a short preview of the gameplay, showcasing the bird navigating through narrow gaps between pipes. Players must carefully time each flap using the spacebar to stay airborne, as even a single collision with the obstacles or ground results in game over.
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/60b48556-db5c-4213-8d0d-146bac84e2b3"
+           width="275" height="575" />
+    </td>
+    <td style="padding-left: 30px;" valign="top">
+      <h3>Controls</h3>
+      <table>
+        <tr>
+          <th align="left">Key</th>
+          <th align="left">Action</th>
+        </tr>
+        <tr>
+          <td><b>Spacebar</b></td>
+          <td>Flap / Move Up</td>
+        </tr>
+        <tr>
+          <td><b>ESC</b></td>
+          <td>Restart Game</td>
+        </tr>
+        <tr>
+          <td><b>Close Window</b></td>
+          <td>Exit Game</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <br>
 
