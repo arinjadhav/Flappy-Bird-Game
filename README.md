@@ -22,6 +22,12 @@ The player's objective is to control the bird, maneuvering it through pipes and 
 
 <br>
 
+## Controls
+
++ Spacebar  → Flap / Move Up  
++ ESC       → Restart Game  
++ Window Close → Exit Game
+
 ## How to Play
 
 1. Clone the project files to this repository.
