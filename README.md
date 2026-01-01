@@ -20,26 +20,14 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
       <img src="https://github.com/user-attachments/assets/60b48556-db5c-4213-8d0d-146bac84e2b3"
            width="275" height="575" />
     </td>
-    <td style="padding-left: 30px;" valign="top">
-      <h3>Controls</h3>
-      <table>
-        <tr>
-          <th align="left">Key</th>
-          <th align="left">Action</th>
-        </tr>
-        <tr>
-          <td><b>Spacebar</b></td>
-          <td>Flap / Move Up</td>
-        </tr>
-        <tr>
-          <td><b>ESC</b></td>
-          <td>Restart Game</td>
-        </tr>
-        <tr>
-          <td><b>Close Window</b></td>
-          <td>Exit Game</td>
-        </tr>
-      </table>
+    <td style="padding-left:30px;" valign="top">
+      <h3>How to Play</h3>
+      <ol>
+        <li>Press <b>Spacebar</b> to flap</li>
+        <li>Avoid pipes and the ground</li>
+        <li>Survive as long as possible</li>
+        <li>Press <b>ESC</b> to restart</li>
+      </ol>
     </td>
   </tr>
 </table>
