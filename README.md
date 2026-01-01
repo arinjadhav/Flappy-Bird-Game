@@ -14,23 +14,12 @@ It captures the original game’s simple yet addictive mechanics, allowing playe
 
 Below is a short preview of the gameplay, showcasing the bird navigating through narrow gaps between pipes. Players must carefully time each flap using the spacebar to stay airborne, as even a single collision with the obstacles or ground results in game over.
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/60b48556-db5c-4213-8d0d-146bac84e2b3"
-           width="275" height="575" />
-    </td>
-    <td style="padding-left:30px;" valign="top">
-      <h2>How to Play</h2>
-      <ol>
-        <li>Press <b>Spacebar</b> to flap</li>
-        <li>Avoid pipes and the ground</li>
-        <li>Survive as long as possible</li>
-        <li>Press <b>ESC</b> to restart</li>
-      </ol>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60b48556-db5c-4213-8d0d-146bac84e2b3"
+       width="275"
+       height="575"
+       style="display:block;" />
+</p>
 
 <br>
 
