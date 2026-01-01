@@ -11,7 +11,7 @@ This project recreates the classic arcade-style game Flappy Bird using Python an
 It captures the original game’s simple yet addictive mechanics, allowing players to control a bird and guide it through a series of obstacles, aiming to survive as long as possible.
 
 ### Gameplay Preview
-The player's objective is to control the bird, maneuvering it through pipes and earning the highest score possible. Players can make the bird flap upwards by pressing the spacebar on the keyboard. However, precise timing is essential to prevent the bird from falling too quickly. If the bird collides with pipes or the ground, the game ends.
+Below is a short preview of the gameplay, showcasing the bird navigating through narrow gaps between pipes. Players must carefully time each flap using the spacebar to stay airborne, as even a single collision with the obstacles or ground results in game over
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/60b48556-db5c-4213-8d0d-146bac84e2b3" width="275" height="575" />
