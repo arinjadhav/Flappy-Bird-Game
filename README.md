@@ -25,10 +25,20 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
 + ESC       → Restart Game  
 + Window Close → Exit Game
 
-## How to Play
-1. Clone the project files to this repository.
-2. Ensure that you have Python 3 and the Pygame library installed on your computer.
-3. Navigate to the project directory in your terminal.
-4. Start the game by using the command `python3 main.py`.
-5. Use the spacebar key on the keyboard to control the bird's upward movement.
-6. If the player collides, they can restart the game by pressing the ESC key.
+## Installation
+Make sure Python 3 and pip are installed on your system.
+
+#### Windows
+```sh
+git clone https://github.com/arinjadhav/flappy-bird.git
+cd flappy-bird
+pip install pygame
+python main.py
+```
+
+#### MacOS
+```sh
+git clone https://github.com/arinjadhav/flappy-bird.git
+cd flappy-bird
+pip3 install pygame
+python3 main.py
