@@ -21,7 +21,7 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
            width="275" height="575" />
     </td>
     <td style="padding-left:30px;" valign="top">
-      <h3>How to Play</h3>
+      <h2>How to Play</h2>
       <ol>
         <li>Press <b>Spacebar</b> to flap</li>
         <li>Avoid pipes and the ground</li>
