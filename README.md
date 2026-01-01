@@ -21,8 +21,6 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
        style="display:block;" />
 </p>
 
-<br>
-
 ## Controls
 
 + Spacebar  → Flap / Move Up  
@@ -40,12 +38,5 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
 
 <br>
 
-## Why This Project?
-
-- A great opportunity to enhance your fundamental Python programming skills.
-- An engaging and interactive way to dive into game programming.
-- A chance to practice game mechanics and using the Pygame library.
-
----
 
 Challenge yourself to beat your own high score in Flappy Bird and enjoy the fun of this game! If you have any questions or feedback, don't hesitate to reach out.
