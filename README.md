@@ -7,7 +7,8 @@
   <img src="readme-assets/Flappy-Bird-2.svg" width="28" />
 </h1>
 
-This project contains a Flappy Bird game developed using the Python programming language and the Pygame game development library. In this project, reflecting the classic and entertaining game mechanics, players control a bird and navigate it through obstacles to see how long they can survive.
+This project recreates the classic arcade-style game Flappy Bird using Python and the Pygame game development library.
+It captures the original game’s simple yet addictive mechanics, allowing players to control a bird and guide it through a series of obstacles, aiming to survive as long as possible.
 
 <br>
 
