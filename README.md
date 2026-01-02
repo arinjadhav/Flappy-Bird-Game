@@ -50,3 +50,9 @@ git clone https://github.com/arinjadhav/Flappy-Bird-Game.git
 cd flappy-bird
 pip3 install pygame
 python3 main.py
+```
+
+<hr>
+
+<a href="https://github.com/arinjadhav" alt="https://github.com/arinjadhav"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GITHUB&message=arinjadhav&color=000000"></a>
+<a href="https://github.com/arinjadhav/Flappy-Bird-Game/blob/main/LICENSE" alt="https://github.com/arinjadhav/Flappy-Bird-Game/blob/main/LICENSE"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=LICENSE&message=MIT&color=000000"></a>
