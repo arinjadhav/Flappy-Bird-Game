@@ -31,6 +31,8 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
 3. Window Close  → Exit Game
 ```
 
+<br>
+
 ## Installation
 Make sure Python 3 and pip are installed on your system.
 
