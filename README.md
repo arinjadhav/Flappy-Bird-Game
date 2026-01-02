@@ -20,7 +20,11 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
        style="display:block;" />
 </p>
 
-## Controls
+<h2 style="display:flex; align-items:center; gap:12px; margin:0;">
+  Controls
+  <img src="readme-assets/game-joystick-controller.png" width="24" />
+</h2>
+
 ```
 1. Spacebar      → Flap / Move Up
 2. ESC           → Restart Game  
