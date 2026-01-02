@@ -27,12 +27,6 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
 3. Window Close  → Exit Game
 ```
 
-## Controls
-
-1. **Spacebar** → Flap / Move Up  
-2. **ESC** → Restart Game  
-3. **Window Close** → Exit Game
-
 ## Installation
 Make sure Python 3 and pip are installed on your system.
 
