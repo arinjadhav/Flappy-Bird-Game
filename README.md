@@ -21,9 +21,11 @@ Below is a short preview of the gameplay, showcasing the bird navigating through
 </p>
 
 ## Controls
-+ Spacebar  → Flap / Move Up  
-+ ESC       → Restart Game  
-+ Window Close → Exit Game
+```
+1. Spacebar      → Flap / Move Up
+2. ESC           → Restart Game  
+3. Window Close  → Exit Game
+```
 
 ## Installation
 Make sure Python 3 and pip are installed on your system.
