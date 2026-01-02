@@ -4,7 +4,7 @@
 
 <h1 style="display:flex; align-items:center; gap:12px; margin:0;">
   Flappy Bird
-  <img src="readme-assets/Flappy-Bird-2.svg" width="28" />
+  <img src="readme-assets/Flappy-Bird.svg" width="28" />
 </h1>
 
 This project recreates the classic arcade-style game Flappy Bird using Python and the Pygame game development library.<br>
